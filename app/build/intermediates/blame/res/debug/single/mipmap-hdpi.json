@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\CaptureScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\CaptureScreen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CaptureScreen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\iconsmall.png",
+        "source": "E:\\CaptureScreen\\app\\src\\main\\res\\mipmap-hdpi\\iconsmall.png"
+    }
+]

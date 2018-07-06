@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihuixu\.android\build-cache\30ddd2c17a3e8e206e40605deec26883d622b948\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihuixu\.android\build-cache\0c7246564e165e4fb50f8244429df834cef30c14\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\fb6aed8142f939381e30d60fcedf97d5aacb6dcd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihuixu\.android\build-cache\15874784dcb4f76391c7bb8f07c88635373939e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihuixu\.android\build-cache\a9980b259bb185b7048dc0b098cd684a096c944e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\4e11b3de6a9de926b04d408b6cf0c65565251350\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\212bb406042db3c16f712b74b05c930154a52088\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\e6be5cdf46879c01417eaefd18693e60d2486459\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\lihuixu\.android\build-cache\649f4c6832875590a1402b572cc0848b2aada710\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.dylan_wang.capturescreen.MainActivity
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:18:9-30:20
+	android:screenOrientation
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:24:27-74
+intent-filter#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:27:25-75
+data
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:28:17-47
+	android:scheme
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:28:23-44
+receiver#com.dylan_wang.capturescreen.BootBroadcastReceiver
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:32:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:33:13-35:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:34:17-79
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:34:25-76
+service#com.dylan_wang.capturescreen.Service1
+ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:38:9-39:19
+	android:name
+		ADDED from E:\CaptureScreen\app\src\main\AndroidManifest.xml:38:18-42
+uses-sdk
+INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihuixu\.android\build-cache\30ddd2c17a3e8e206e40605deec26883d622b948\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihuixu\.android\build-cache\0c7246564e165e4fb50f8244429df834cef30c14\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\fb6aed8142f939381e30d60fcedf97d5aacb6dcd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihuixu\.android\build-cache\15874784dcb4f76391c7bb8f07c88635373939e7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihuixu\.android\build-cache\a9980b259bb185b7048dc0b098cd684a096c944e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\4e11b3de6a9de926b04d408b6cf0c65565251350\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\212bb406042db3c16f712b74b05c930154a52088\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\e6be5cdf46879c01417eaefd18693e60d2486459\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\lihuixu\.android\build-cache\649f4c6832875590a1402b572cc0848b2aada710\output\AndroidManifest.xml:5:5-7:41
+MERGED from [CaptureScreen:openCVLibrary330:unspecified] E:\CaptureScreen\openCVLibrary330\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CaptureScreen\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihuixu\.android\build-cache\30ddd2c17a3e8e206e40605deec26883d622b948\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihuixu\.android\build-cache\0c7246564e165e4fb50f8244429df834cef30c14\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\fb6aed8142f939381e30d60fcedf97d5aacb6dcd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihuixu\.android\build-cache\15874784dcb4f76391c7bb8f07c88635373939e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihuixu\.android\build-cache\a9980b259bb185b7048dc0b098cd684a096c944e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\4e11b3de6a9de926b04d408b6cf0c65565251350\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihuixu\.android\build-cache\212bb406042db3c16f712b74b05c930154a52088\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihuixu\.android\build-cache\e6be5cdf46879c01417eaefd18693e60d2486459\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihuixu\.android\build-cache\a6355cf63cf67270874bf634da3ee200dea672f6\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\CaptureScreen\openCVLibrary330\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac87e1d4ad141a042225f0f2184db41b4c02e03e">
+        <dex dex="E:\CaptureScreen\app\build\intermediates\pre-dexed\debug\classes_4cb625ff64dc92b0b1b6d3a6178566ecf02819ff.jar" />
+    </item>
+
+</items>
